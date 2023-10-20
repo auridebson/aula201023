@@ -14,3 +14,6 @@ npm create vite@latest
 <!-- Entrar na pasta do projeto -->
 npm install
 npm run dev
+
+<!-- Instalar complementos -->
+npm install react-router-dom styled-component axios
